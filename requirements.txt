@@ -1,0 +1,6 @@
+opencv-python==4.5.5.64
+pyshine==0.0.9
+requests==2.27.1
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
